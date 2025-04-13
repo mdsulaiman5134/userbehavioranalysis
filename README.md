@@ -23,3 +23,15 @@ This project performs user behavior analysis using PySpark on Databricks. It inc
 ## 📂 Output
 - CSV with user segments
 - Scatter plot showing user clusters
+
+
+### ⭐️ Show your support
+
+If you found this project useful, please give it a ⭐️ on GitHub and consider sharing it with others
+
+## 🧑‍💻 Author
+
+**Mohammed Sulaiman**  
+SOFTWARE, AI & Data Engineering Enthusiast  
+📫 mdsulaiman5134@gmail.com(mailto:mdsulaiman5134@gmail.com)  
+🌐 [LinkedIn](https://www.linkedin.com/in/mohammed-sulaiman-23a10021b)
